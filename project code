@@ -101,3 +101,4 @@ printf("\n\nAVERAGE WAITING TIME : %f",wavg);
 printf("\nAVERAGE TURN AROUND TIME : %f",tavg);
 return 0;
 }
+//Mayank Soni
